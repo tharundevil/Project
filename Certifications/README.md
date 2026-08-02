@@ -13,8 +13,8 @@ I have successfully earned the **AWS Certified Cloud Practitioner** certificatio
 | **Certification Name** | AWS Certified Cloud Practitioner |
 | **Issuing Organization** | Amazon Web Services (AWS) |
 | **Exam Code** | CLF-C02 |
-| **Issue Date** | <-- July 2026 --> |
-| **Expiration Date** | <-- July 2029 --> |
+| **Issue Date** | July 2026 |
+| **Expiration Date** | July 2029 |
 | **Credential ID** | dbe6f989e3a24ea5ad4f219280be914f |
 | **Verify Link** | [https://aws.amazon.com/verification](#) https://www.credly.com/badges/2885f280-1ca9-4bd0-931c-baa0c10de9b2/public_url |
 
